@@ -1,2 +1,2 @@
 # Pratica-Python
-Eu testando python
+Eu testando python, criando mini projetos
